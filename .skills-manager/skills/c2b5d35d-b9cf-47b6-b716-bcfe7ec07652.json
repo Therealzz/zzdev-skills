@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2b5d35d-b9cf-47b6-b716-bcfe7ec07652",
+  "path": "reverse-engineer-anything",
+  "path_key": "reverse-engineer-anything",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

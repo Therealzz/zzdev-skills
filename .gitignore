@@ -38,3 +38,8 @@ CLAUDE.md
 AGENTS.md
 .loop-log
 
+Thumbs.db
+*.tmp
+.skills-manager.lock
+__pycache__/
+*.pyc
