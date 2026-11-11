@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac67296f-5427-4ef8-bafc-6cf7b0799865",
+  "path": "firebase-auth-basics",
+  "path_key": "firebase-auth-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "firebase/agent-skills/firebase-auth-basics",
+    "subpath": "skills\\firebase-auth-basics",
+    "branch": null
+  }
+}

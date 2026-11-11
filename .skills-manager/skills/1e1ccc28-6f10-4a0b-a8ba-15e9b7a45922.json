@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e1ccc28-6f10-4a0b-a8ba-15e9b7a45922",
+  "path": "firebase-firestore",
+  "path_key": "firebase-firestore",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "firebase/agent-skills/firebase-firestore",
+    "subpath": "skills\\firebase-firestore",
+    "branch": null
+  }
+}
