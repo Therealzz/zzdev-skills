@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1209ce11-f030-47d6-862d-a7d942bdc6e0",
+  "path": "modern-web-guidance",
+  "path_key": "modern-web-guidance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "googlechrome/modern-web-guidance/modern-web-guidance",
+    "subpath": "skills\\modern-web-guidance",
+    "branch": null
+  }
+}
