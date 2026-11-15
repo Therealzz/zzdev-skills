@@ -8,6 +8,6 @@
     "cursor": true,
     "hermes": false,
     "opencode": false,
-    "zcode": true
+    "zcode": false
   }
 }
