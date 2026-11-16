@@ -5,7 +5,7 @@
   "sort_order": 0,
   "tools": {
     "claude_code": true,
-    "cursor": true,
+    "cursor": false,
     "hermes": true,
     "opencode": true,
     "zcode": true
