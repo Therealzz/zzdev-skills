@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dab83290-90bd-4aa1-9dd7-a70c7dd2af3a",
+  "path": "ui-taste",
+  "path_key": "ui-taste",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "well-known",
+    "ref": "https://skills.sh/site/uizze.sh/ui-taste",
+    "subpath": null,
+    "branch": null
+  }
+}
