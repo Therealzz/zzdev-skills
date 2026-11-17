@@ -7,7 +7,7 @@
     "claude_code": true,
     "cursor": true,
     "hermes": false,
-    "opencode": false,
-    "zcode": false
+    "opencode": true,
+    "zcode": true
   }
 }
