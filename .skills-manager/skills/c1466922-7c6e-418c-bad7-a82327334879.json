@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1466922-7c6e-418c-bad7-a82327334879",
+  "path": "motion-prompt",
+  "path_key": "motion-prompt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "showheyohtaki/motion-prompt/motion-prompt",
+    "subpath": "skills/motion-prompt",
+    "branch": null
+  }
+}

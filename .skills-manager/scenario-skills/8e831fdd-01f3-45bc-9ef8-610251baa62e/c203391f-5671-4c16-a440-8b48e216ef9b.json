@@ -4,8 +4,10 @@
   "skill_id": "c203391f-5671-4c16-a440-8b48e216ef9b",
   "sort_order": 0,
   "tools": {
+    "claude_code": true,
     "cursor": true,
-    "opencode": true,
-    "zcode": true
+    "hermes": false,
+    "opencode": false,
+    "zcode": false
   }
 }
