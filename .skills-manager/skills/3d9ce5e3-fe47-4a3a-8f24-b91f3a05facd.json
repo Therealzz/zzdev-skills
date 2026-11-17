@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3d9ce5e3-fe47-4a3a-8f24-b91f3a05facd",
+  "path": "agent-desktop",
+  "path_key": "agent-desktop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/agent-desktop/agent-desktop",
+    "subpath": "skills\\agent-desktop",
+    "branch": null
+  }
+}
