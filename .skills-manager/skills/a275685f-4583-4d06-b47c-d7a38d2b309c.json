@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a275685f-4583-4d06-b47c-d7a38d2b309c",
+  "path": "graphify",
+  "path_key": "graphify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "graphify-labs/graphify/graphify",
+    "subpath": "graphify",
+    "branch": null
+  }
+}

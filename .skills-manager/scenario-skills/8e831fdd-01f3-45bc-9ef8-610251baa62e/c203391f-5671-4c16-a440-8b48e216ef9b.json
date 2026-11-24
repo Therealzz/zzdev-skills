@@ -5,9 +5,9 @@
   "sort_order": 0,
   "tools": {
     "claude_code": true,
-    "cursor": true,
+    "cursor": false,
     "hermes": false,
-    "opencode": true,
+    "opencode": false,
     "zcode": true
   }
 }
